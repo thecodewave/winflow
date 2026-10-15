@@ -31,12 +31,12 @@ window.CONFIG = {
     { src: 'images/image20.jpg', alt: 'Winflow in the studio under green light' },
   ],
   LINKS: {
-    // Streaming: [
-    //   // { name: 'Spotify', url: 'https://open.spotify.com/' },
-    //   // { name: 'Apple Music', url: 'https://music.apple.com/' },
-    //   // { name: 'Audiomack', url: 'https://audiomack.com/' },
-    //   // { name: 'YouTube Music', url: 'https://music.youtube.com/' }
-    // ],
+    Streaming: [
+      // { name: 'Spotify', url: 'https://open.spotify.com/' },
+      // { name: 'Apple Music', url: 'https://music.apple.com/' },
+      // { name: 'Audiomack', url: 'https://audiomack.com/' },
+      // { name: 'YouTube Music', url: 'https://music.youtube.com/' }
+    ],
     Social: [
       { name: 'Instagram', url: 'https://www.instagram.com/winflow82?obrf=aDNjenRmbjhlMXg0' },
       { name: 'YouTube', url: 'https://youtube.com/@winflow-?si=6Sqyzl3A09TrqQHP' },
